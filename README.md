@@ -67,7 +67,7 @@ Assign the new project to the directory you just created.
 From RStudio, create a new R Markdown file
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/graphdr/starting-with-Rmd/blob/master/visuals/newfile-rmarkdown.png" width="300">
+<img src="visuals/newfile-rmarkdown.png" width="300">
 
 <br>
 Select HTML output (for now). We can change it later.  
