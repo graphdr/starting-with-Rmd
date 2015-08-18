@@ -48,13 +48,13 @@ Create a new directory.
 Open RStudio, create a new project.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/new-project-menu.png" width="300">
+<img src="/visuals/new-project-menu.PNG" width="300">
 
 <br>
 Assign the new project to the directory you just created.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/exist-directory-dialog.png" width="300">
+<img src="/visuals/exist-directory-dialog.PNG" width="300">
 
 
 
