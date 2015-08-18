@@ -44,7 +44,7 @@ Read more about R Markdown
 Create a new directory. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="./visuals/new-project.png" width="300">
+<img src="http://github.com/graphdr/starting-with-Rmd/visuals/new-project.png" width="300">
 
 <br>
 Open RStudio, create a new project.
