@@ -239,5 +239,15 @@ Every line ends with two spaces.
 
 <img src="/visuals/markup-output-enumerate.PNG" width="600">
 
+### Links
+
+<img src="/visuals/markup-output-links.PNG" width="600">
+
+
+### Images
+
+
+<img src="/visuals/markup-output-images.PNG" width="600">
+
 
 
