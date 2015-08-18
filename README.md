@@ -186,15 +186,15 @@ You can type these directly in the Rmd YAML header or you can use the RStudio `K
 
 `Knit HTML` produces 
 
-<img src="/visuals/output-html.PNG" width="600">
+<img src="/visuals/output-html.png" width="600">
 
 `Knit PDF` produces  (requires TeX)
 
-<img src="/visuals/output-pdf.PNG" width="600">
+<img src="/visuals/output-pdf.png" width="600">
 
 `Knit WORD` produces  (requires Word)
 
-<img src="/visuals/output-word.PNG" width="600">
+<img src="/visuals/output-word.png" width="600">
 
 
 
