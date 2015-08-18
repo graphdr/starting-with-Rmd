@@ -67,19 +67,19 @@ Assign the new project to the directory you just created.
 From RStudio, create a new R Markdown file
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/newfile-rmarkdown.png" width="300">
+<img src="/visuals/newfile-rmarkdown.PNG" width="300">
 
 <br>
 Select HTML output (for now). We can change it later.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/new-rmarkdown-dialog.png" width="300">
+<img src="/visuals/new-rmarkdown-dialog.PNG" width="300">
 
 <br>
 An untitled R Markdown file is created with some default text and R code. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/untitled-rmd.png" width="600">
+<img src="/visuals/untitled-rmd.PNG" width="600">
 
 <br>
 *File* $\rightarrow$ *Save As* to the project directory with an Rmd suffix, for example, `test-report.Rmd`. 
@@ -88,13 +88,13 @@ An untitled R Markdown file is created with some default text and R code.
 Click `Knit HTML` to render the document in HTML. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/knit-html.png" width="600">
+<img src="/visuals/knit-html.PNG" width="600">
 
 <br>
 The report appears in your RStudio viewer. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/default-rmd-report.png" width="600">
+<img src="/visuals/default-rmd-report.PNG" width="600">
 
 
 
@@ -137,7 +137,7 @@ plot(cars)
 However, the code is executed and the graph is printed to the output document,
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="/visuals/plot-cars.png" width="600">
+<img src="/visuals/plot-cars.PNG" width="600">
 
 
 
@@ -148,7 +148,7 @@ However, the code is executed and the graph is printed to the output document,
 
 ## What the software is doing
 
-<img src="/visuals/rmd-to-html-process-4.png" width="500">
+<img src="/visuals/rmd-to-html-process-4.PNG" width="500">
 
 The resulting output file is placed in the same directory as your Rmd file.
 
@@ -182,19 +182,19 @@ The `output:` option recognizes three document types:
 
 You can type these directly in the Rmd YAML header or you can use the RStudio `Knit` pulldown menu
 
-<img src="/visuals/knit-to-pdf.png" width="250">
+<img src="/visuals/knit-to-pdf.PNG" width="250">
 
 `Knit HTML` produces 
 
-<img src="/visuals/output-html.png" width="600">
+<img src="/visuals/output-html.PNG" width="600">
 
 `Knit PDF` produces  (requires TeX)
 
-<img src="/visuals/output-pdf.png" width="600">
+<img src="/visuals/output-pdf.PNG" width="600">
 
 `Knit WORD` produces  (requires Word)
 
-<img src="/visuals/output-word.png" width="600">
+<img src="/visuals/output-word.PNG" width="600">
 
 
 
@@ -219,25 +219,25 @@ Articles on the RStudio website for formatting output.
 
 ### Section headings
 
-<img src="/visuals/markup-output-sections.png" width="600">
+<img src="/visuals/markup-output-sections.PNG" width="600">
 
 ### Emphasis
 
-<img src="/visuals/markup-output-emphasis.png" width="600">
+<img src="/visuals/markup-output-emphasis.PNG" width="600">
 
 ### Itemize 
 
 Sub-items begin with 4 spaces.   
 Every line ends with two spaces.  
 
-<img src="/visuals/markup-output-itemize.png" width="600">
+<img src="/visuals/markup-output-itemize.PNG" width="600">
 
 ### Enumerate     
 
 Sub-items begin with 4 spaces.   
 Every line ends with two spaces.  
 
-<img src="/visuals/markup-output-enumerate.png" width="600">
+<img src="/visuals/markup-output-enumerate.PNG" width="600">
 
 
 
