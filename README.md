@@ -1,12 +1,5 @@
 # starting-with-Rmd
 
----
-title: Getting started with R Markdown
-output:
- html_document:
-  keep_md: true
----
-
 ### Indy useR Group
 2015-08-18  
 
@@ -49,7 +42,7 @@ Read more about R Markdown
 Create a new directory. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="visuals/new-project.png" width="300">
+<img src="/visuals/new-project.png" width="300">
 
 <br>
 Open RStudio, create a new project.
