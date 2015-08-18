@@ -82,7 +82,7 @@ An untitled R Markdown file is created with some default text and R code.
 <img src="/visuals/untitled-rmd.PNG" width="600">
 
 <br>
-*File* $\rightarrow$ *Save As* to the project directory with an Rmd suffix, for example, `test-report.Rmd`. 
+*File* -> *Save As* to the project directory with an Rmd suffix, for example, `test-report.Rmd`. 
 
 <br>
 Click `Knit HTML` to render the document in HTML. 
