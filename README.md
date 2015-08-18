@@ -1,4 +1,4 @@
-# starting-with-Rmd
+# getting started with r markdown
 
 ### Indy useR Group
 2015-08-18  
