@@ -39,6 +39,8 @@ Read more about R Markdown
 
 ## Create an RStudio project
 
+If you have already created an RStudio project for this work, launch it and skip this section. 
+
 Create a new directory. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
